@@ -26,3 +26,4 @@ status-website:
           href: /
         - title: GitHub
           href: https://github.com/captv89/uptime-monitor
+    theme: dark
