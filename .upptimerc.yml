@@ -4,9 +4,9 @@ repo: uptime-monitor
 
 sites:
     - name: Portfolio
-      url: https://captv.ovh
+      url: https://captv89.github.io
     - name: Photography
-      url: https://captv.ovh/photography/
+      url: https://captv89.github.io/photography/
     - name: Searoute
       url: https://searoute.captv.ovh
     - name: CII
@@ -17,10 +17,10 @@ sites:
       url: https://svelte-calculator-alpha.vercel.app/
 
 status-website:
-    cname: captv.ovh
+    baseUrl: /uptime-monitor
     logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-    name: Portfolio
-    introTitle: 'My portfolio page, powered entirely by GitHub.'
+    name: Uptime Monitor
+    introTitle: 'Check the uptime of my websites, powered entirely by GitHub.'
     navbar:
         - title: Status
           href: /
