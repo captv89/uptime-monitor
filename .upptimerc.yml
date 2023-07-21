@@ -4,9 +4,15 @@ repo: uptime-monitor
 
 sites:
     - name: Portfolio
-      url: https://captv89.github.io
+      url: https://captv.ovh/
+      expectedStatusCode:
+        - 200
+        - 301
     - name: Photography
       url: https://captv89.github.io/photography/
+      expectedStatusCode:
+        - 200
+        - 301
     - name: Searoute
       url: https://searoute.captv.ovh
     - name: CII
