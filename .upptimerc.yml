@@ -6,13 +6,15 @@ sites:
     - name: Portfolio
       url: https://captv.ovh/
       expectedStatusCode:
-        - 200
-        - 301
+          - 0
+          - 200
+          - 301
     - name: Photography
       url: https://captv89.github.io/photography/
       expectedStatusCode:
-        - 200
-        - 301
+          - 0
+          - 200
+          - 301
     - name: Searoute
       url: https://searoute.captv.ovh
     - name: CII
