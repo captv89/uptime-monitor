@@ -4,13 +4,13 @@ repo: uptime-monitor
 
 sites:
     - name: Portfolio
-      url: https://captv.ovh/
+      url: https://profile.captv.ovh/
       expectedStatusCode:
           - 0
           - 200
           - 301
     - name: Photography
-      url: https://captv89.github.io/photography/
+      url: https://profile.captv.ovh/photography/
       expectedStatusCode:
           - 0
           - 200
