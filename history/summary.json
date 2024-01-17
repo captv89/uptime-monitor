@@ -226,19 +226,19 @@
     "url": "https://svelte-calculator-alpha.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/svelte-calculator-alpha.vercel.app.ico",
     "slug": "calculator",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 107,
-    "timeWeek": 75,
-    "timeMonth": 70,
+    "timeDay": 105,
+    "timeWeek": 78,
+    "timeMonth": 71,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 12
     }
   }
 ]
