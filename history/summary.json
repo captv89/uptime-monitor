@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/profile.captv.ovh.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "82.34%",
+    "uptime": "82.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.34%",
+    "uptimeYear": "82.35%",
     "time": 263,
     "timeDay": 842,
     "timeWeek": 394,
@@ -81,11 +81,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/profile.captv.ovh.ico",
     "slug": "photography",
     "status": "up",
-    "uptime": "82.35%",
+    "uptime": "82.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.35%",
+    "uptimeYear": "82.36%",
     "time": 66,
     "timeDay": 84,
     "timeWeek": 52,
@@ -208,9 +208,9 @@
     "url": "https://svelte-map-theta.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/svelte-map-theta.vercel.app.ico",
     "slug": "svelte-geo-map",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -219,16 +219,18 @@
     "timeWeek": 97,
     "timeMonth": 85,
     "timeYear": 110,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-02": 0
+    }
   },
   {
     "name": "Calculator",
     "url": "https://svelte-calculator-alpha.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/svelte-calculator-alpha.vercel.app.ico",
     "slug": "calculator",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -237,6 +239,8 @@
     "timeWeek": 90,
     "timeMonth": 76,
     "timeYear": 96,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-02": 0
+    }
   }
 ]
