@@ -5,21 +5,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/profile.captv.ovh.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "86.54%",
+    "uptime": "86.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.39%",
+    "uptimeYear": "98.67%",
     "time": 263,
-    "timeDay": 274,
-    "timeWeek": 238,
-    "timeMonth": 279,
+    "timeDay": 515,
+    "timeWeek": 264,
+    "timeMonth": 289,
     "timeYear": 263,
     "dailyMinutesDown": {
       "2023-09-14": 1309,
       "2023-09-13": 1440,
-      "2023-09-12": 1440,
-      "2023-09-11": 1440
+      "2023-09-12": 1440
     }
   },
   {
@@ -28,21 +27,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/profile.captv.ovh.ico",
     "slug": "photography",
     "status": "up",
-    "uptime": "86.55%",
+    "uptime": "86.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.40%",
+    "uptimeYear": "98.68%",
     "time": 63,
-    "timeDay": 102,
-    "timeWeek": 59,
-    "timeMonth": 57,
+    "timeDay": 41,
+    "timeWeek": 56,
+    "timeMonth": 55,
     "timeYear": 63,
     "dailyMinutesDown": {
       "2023-09-14": 1255,
       "2023-09-13": 1440,
-      "2023-09-12": 1440,
-      "2023-09-11": 1440
+      "2023-09-12": 1440
     }
   },
   {
@@ -51,21 +49,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/searoute.captv.ovh.ico",
     "slug": "searoute",
     "status": "up",
-    "uptime": "98.42%",
+    "uptime": "98.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.40%",
+    "uptimeYear": "98.68%",
     "time": 646,
-    "timeDay": 869,
-    "timeWeek": 624,
-    "timeMonth": 651,
+    "timeDay": 643,
+    "timeWeek": 634,
+    "timeMonth": 642,
     "timeYear": 646,
     "dailyMinutesDown": {
       "2023-09-14": 1255,
       "2023-09-13": 1440,
-      "2023-09-12": 1440,
-      "2023-09-11": 1440
+      "2023-09-12": 1440
     }
   },
   {
@@ -74,21 +71,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/cii.captv.ovh.ico",
     "slug": "cii",
     "status": "up",
-    "uptime": "98.42%",
+    "uptime": "98.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.40%",
-    "time": 615,
-    "timeDay": 803,
-    "timeWeek": 555,
-    "timeMonth": 598,
+    "uptimeYear": "98.68%",
+    "time": 616,
+    "timeDay": 819,
+    "timeWeek": 615,
+    "timeMonth": 599,
     "timeYear": 613,
     "dailyMinutesDown": {
       "2023-09-14": 1255,
       "2023-09-13": 1440,
-      "2023-09-12": 1440,
-      "2023-09-11": 1440
+      "2023-09-12": 1440
     }
   },
   {
@@ -103,10 +99,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 234,
-    "timeWeek": 132,
-    "timeMonth": 129,
-    "timeYear": 107,
+    "timeDay": 82,
+    "timeWeek": 123,
+    "timeMonth": 131,
+    "timeYear": 106,
     "dailyMinutesDown": {}
   },
   {
@@ -121,10 +117,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 155,
-    "timeWeek": 132,
-    "timeMonth": 121,
-    "timeYear": 98,
+    "timeDay": 78,
+    "timeWeek": 125,
+    "timeMonth": 122,
+    "timeYear": 97,
     "dailyMinutesDown": {}
   }
 ]
