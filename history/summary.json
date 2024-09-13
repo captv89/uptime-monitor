@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/profile.captv.ovh.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "86.64%",
+    "uptime": "86.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.21%",
-    "time": 263,
-    "timeDay": 123,
-    "timeWeek": 283,
-    "timeMonth": 288,
-    "timeYear": 263,
-    "dailyMinutesDown": {
-      "2023-09-14": 1309
-    }
+    "uptimeYear": "99.49%",
+    "time": 266,
+    "timeDay": 1202,
+    "timeWeek": 441,
+    "timeMonth": 320,
+    "timeYear": 266,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Photography",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/profile.captv.ovh.ico",
     "slug": "photography",
     "status": "up",
-    "uptime": "86.65%",
+    "uptime": "86.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.22%",
+    "uptimeYear": "99.50%",
     "time": 63,
-    "timeDay": 41,
-    "timeWeek": 65,
-    "timeMonth": 59,
+    "timeDay": 109,
+    "timeWeek": 77,
+    "timeMonth": 61,
     "timeYear": 63,
-    "dailyMinutesDown": {
-      "2023-09-14": 1255
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Searoute",
@@ -49,15 +45,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.22%",
-    "time": 647,
-    "timeDay": 772,
-    "timeWeek": 706,
-    "timeMonth": 668,
-    "timeYear": 647,
-    "dailyMinutesDown": {
-      "2023-09-14": 1255
-    }
+    "uptimeYear": "99.50%",
+    "time": 648,
+    "timeDay": 1160,
+    "timeWeek": 805,
+    "timeMonth": 687,
+    "timeYear": 649,
+    "dailyMinutesDown": {}
   },
   {
     "name": "CII",
@@ -69,15 +63,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.22%",
-    "time": 616,
-    "timeDay": 608,
-    "timeWeek": 674,
-    "timeMonth": 613,
-    "timeYear": 614,
-    "dailyMinutesDown": {
-      "2023-09-14": 1255
-    }
+    "uptimeYear": "99.50%",
+    "time": 617,
+    "timeDay": 1128,
+    "timeWeek": 775,
+    "timeMonth": 634,
+    "timeYear": 615,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Svelte GeoMap",
@@ -92,9 +84,9 @@
     "uptimeYear": "100.00%",
     "time": 108,
     "timeDay": 115,
-    "timeWeek": 118,
-    "timeMonth": 127,
-    "timeYear": 106,
+    "timeWeek": 123,
+    "timeMonth": 128,
+    "timeYear": 107,
     "dailyMinutesDown": {}
   },
   {
@@ -109,9 +101,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 140,
-    "timeWeek": 124,
-    "timeMonth": 122,
+    "timeDay": 120,
+    "timeWeek": 134,
+    "timeMonth": 123,
     "timeYear": 98,
     "dailyMinutesDown": {}
   }
