@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/profile.captv.ovh.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "91.05%",
+    "uptime": "91.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/profile.captv.ovh.ico",
     "slug": "photography",
     "status": "up",
-    "uptime": "91.06%",
+    "uptime": "91.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -40,10 +40,10 @@
     "url": "https://searoute.captv.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/searoute.captv.ovh.ico",
     "slug": "searoute",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 629,
@@ -51,16 +51,18 @@
     "timeWeek": 551,
     "timeMonth": 563,
     "timeYear": 629,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-07": 1
+    }
   },
   {
     "name": "CII",
     "url": "https://cii.captv.ovh/",
     "icon": "https://icons.duckduckgo.com/ip3/cii.captv.ovh.ico",
     "slug": "cii",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +71,9 @@
     "timeWeek": 542,
     "timeMonth": 549,
     "timeYear": 618,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-07": 0
+    }
   },
   {
     "name": "Svelte GeoMap",
