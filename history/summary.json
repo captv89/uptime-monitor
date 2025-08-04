@@ -40,19 +40,19 @@
     "url": "https://searoute.captv.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/searoute.captv.ovh.ico",
     "slug": "searoute",
-    "status": "down",
+    "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 633,
-    "timeDay": 459,
-    "timeWeek": 569,
-    "timeMonth": 631,
+    "timeDay": 547,
+    "timeWeek": 577,
+    "timeMonth": 632,
     "timeYear": 645,
     "dailyMinutesDown": {
-      "2025-08-04": 0
+      "2025-08-04": 26
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://cii.captv.ovh/",
     "icon": "https://icons.duckduckgo.com/ip3/cii.captv.ovh.ico",
     "slug": "cii",
-    "status": "down",
+    "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 629,
-    "timeDay": 532,
-    "timeWeek": 653,
-    "timeMonth": 663,
+    "timeDay": 503,
+    "timeWeek": 630,
+    "timeMonth": 657,
     "timeYear": 637,
     "dailyMinutesDown": {
-      "2025-08-04": 0
+      "2025-08-04": 26
     }
   },
   {
