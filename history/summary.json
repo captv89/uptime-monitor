@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/profile.captv.ovh.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "92.65%",
+    "uptime": "92.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -80,9 +80,9 @@
     "url": "https://svelte-map-theta.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/svelte-map-theta.vercel.app.ico",
     "slug": "svelte-geo-map",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -92,6 +92,7 @@
     "timeMonth": 165,
     "timeYear": 128,
     "dailyMinutesDown": {
+      "2025-08-21": 0,
       "2025-07-26": 22,
       "2024-10-22": 29
     }
@@ -101,9 +102,9 @@
     "url": "https://svelte-calculator-alpha.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/svelte-calculator-alpha.vercel.app.ico",
     "slug": "calculator",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -113,6 +114,7 @@
     "timeMonth": 130,
     "timeYear": 133,
     "dailyMinutesDown": {
+      "2025-08-21": 0,
       "2025-07-26": 22,
       "2024-10-22": 29
     }
