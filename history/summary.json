@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 304,
-    "timeDay": 227,
-    "timeWeek": 342,
-    "timeMonth": 329,
-    "timeYear": 315,
+    "time": 305,
+    "timeDay": 588,
+    "timeWeek": 404,
+    "timeMonth": 323,
+    "timeYear": 316,
     "dailyMinutesDown": {}
   },
   {
@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/profile.captv.ovh.ico",
     "slug": "photography",
     "status": "up",
-    "uptime": "93.20%",
+    "uptime": "93.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 58,
-    "timeDay": 29,
-    "timeWeek": 67,
-    "timeMonth": 57,
+    "timeDay": 94,
+    "timeWeek": 75,
+    "timeMonth": 59,
     "timeYear": 59,
     "dailyMinutesDown": {}
   },
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 629,
-    "timeDay": 415,
-    "timeWeek": 624,
-    "timeMonth": 577,
-    "timeYear": 620,
+    "timeDay": 804,
+    "timeWeek": 680,
+    "timeMonth": 568,
+    "timeYear": 621,
     "dailyMinutesDown": {
       "2025-08-04": 26
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 632,
-    "timeDay": 327,
-    "timeWeek": 536,
-    "timeMonth": 691,
-    "timeYear": 632,
+    "time": 634,
+    "timeDay": 1408,
+    "timeWeek": 679,
+    "timeMonth": 707,
+    "timeYear": 635,
     "dailyMinutesDown": {
       "2025-08-04": 26
     }
@@ -82,13 +82,13 @@
     "slug": "svelte-geo-map",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "95.09%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.07%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.91%",
     "time": 129,
-    "timeDay": 814,
-    "timeWeek": 420,
+    "timeDay": 207,
+    "timeWeek": 422,
     "timeMonth": 219,
     "timeYear": 141,
     "dailyMinutesDown": {
@@ -102,8 +102,7 @@
       "2025-08-27": 28,
       "2025-08-26": 146,
       "2025-08-21": 18,
-      "2025-07-26": 22,
-      "2024-10-22": 29
+      "2025-07-26": 22
     }
   },
   {
@@ -113,15 +112,15 @@
     "slug": "calculator",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "96.41%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.26%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.91%",
-    "time": 132,
-    "timeDay": 1212,
-    "timeWeek": 439,
-    "timeMonth": 240,
-    "timeYear": 146,
+    "time": 133,
+    "timeDay": 412,
+    "timeWeek": 460,
+    "timeMonth": 246,
+    "timeYear": 147,
     "dailyMinutesDown": {
       "2025-10-20": 52,
       "2025-10-16": 23,
@@ -133,8 +132,7 @@
       "2025-08-27": 28,
       "2025-08-26": 144,
       "2025-08-21": 18,
-      "2025-07-26": 22,
-      "2024-10-22": 29
+      "2025-07-26": 22
     }
   }
 ]
