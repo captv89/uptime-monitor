@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/profile.captv.ovh.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "93.26%",
+    "uptime": "93.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 308,
-    "timeDay": 867,
-    "timeWeek": 426,
-    "timeMonth": 353,
-    "timeYear": 320,
+    "time": 309,
+    "timeDay": 790,
+    "timeWeek": 446,
+    "timeMonth": 372,
+    "timeYear": 321,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 59,
-    "timeDay": 85,
-    "timeWeek": 82,
-    "timeMonth": 67,
-    "timeYear": 59,
+    "timeDay": 123,
+    "timeWeek": 89,
+    "timeMonth": 68,
+    "timeYear": 60,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 630,
-    "timeDay": 521,
-    "timeWeek": 682,
-    "timeMonth": 617,
-    "timeYear": 622,
+    "timeDay": 836,
+    "timeWeek": 604,
+    "timeMonth": 624,
+    "timeYear": 623,
     "dailyMinutesDown": {
       "2025-08-04": 26
     }
@@ -67,10 +67,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 633,
-    "timeDay": 455,
-    "timeWeek": 498,
-    "timeMonth": 705,
-    "timeYear": 632,
+    "timeDay": 635,
+    "timeWeek": 524,
+    "timeMonth": 703,
+    "timeYear": 631,
     "dailyMinutesDown": {
       "2025-08-04": 26
     }
@@ -87,9 +87,9 @@
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.92%",
     "time": 130,
-    "timeDay": 199,
-    "timeWeek": 155,
-    "timeMonth": 229,
+    "timeDay": 136,
+    "timeWeek": 144,
+    "timeMonth": 231,
     "timeYear": 143,
     "dailyMinutesDown": {
       "2025-10-20": 70,
@@ -117,9 +117,9 @@
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.92%",
     "time": 133,
-    "timeDay": 160,
-    "timeWeek": 147,
-    "timeMonth": 252,
+    "timeDay": 54,
+    "timeWeek": 126,
+    "timeMonth": 247,
     "timeYear": 148,
     "dailyMinutesDown": {
       "2025-10-20": 52,
