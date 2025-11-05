@@ -1,7 +1,7 @@
 url: https://cii.captv.ovh/
-status: up
-code: 200
-responseTime: 339
-lastUpdated: 2025-11-05T22:33:34.241Z
+status: down
+code: 502
+responseTime: 400
+lastUpdated: 2025-11-05T22:45:43.111Z
 startTime: 2023-07-20T21:33:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>
