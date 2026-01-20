@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/profile.captv.ovh.ico",
     "slug": "portfolio",
     "status": "up",
-    "uptime": "93.87%",
+    "uptime": "93.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -61,9 +61,9 @@
     "url": "https://cii.captv.ovh/",
     "icon": "https://icons.duckduckgo.com/ip3/cii.captv.ovh.ico",
     "slug": "cii",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -73,6 +73,7 @@
     "timeMonth": 531,
     "timeYear": 613,
     "dailyMinutesDown": {
+      "2026-01-20": 0,
       "2025-11-05": 162,
       "2025-08-04": 26
     }
