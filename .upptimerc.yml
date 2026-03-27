@@ -17,8 +17,6 @@ sites:
           - 301
     - name: Searoute
       url: https://searoute.captv.ovh
-    - name: CII
-      url: https://cii.captv.ovh/
     - name: Svelte GeoMap
       url: https://svelte-map-theta.vercel.app/
     - name: Calculator
